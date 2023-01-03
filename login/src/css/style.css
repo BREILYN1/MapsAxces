@@ -1,0 +1,75 @@
+
+
+body {
+  background-image: url("../img/fondo.png ");
+}
+.containerPrincipal {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 40px;
+}
+.containerSecundario {
+  text-align: center;
+}
+.card-img-top {
+  background-color: aqua;
+  background-color: transparent;
+}
+.title_login {
+  color: #170cbd;
+  margin-top: 13px;
+  margin-bottom: 11px;
+  font-size: x-large;
+}
+
+.input-group-text {
+  background-color: transparent !important;
+  border: 1px solid transparent !important;
+}
+.card {
+  --bs-card-bg: transparent !important;
+  border: 1px solid transparent !important;
+}
+/* inpunts del login */
+form {
+  margin: auto;
+  
+}
+
+form  .form-contro{
+  position: relative;
+  margin-top: 12px;
+}
+
+form .form-contro input{
+  padding: 10px 0px 10px 40px;
+  outline: none;
+} 
+form .form-contro i{
+  position: absolute;
+  margin-left: 13px;
+  top: 12px;
+  color: #170cbd;
+  font-size: 24px;
+}
+.text-input{
+  border-radius: 35px;
+  padding: 10px;
+}
+/* button login */
+.btn btn-primary{
+  
+}
+
+
+
+
+
+
+
+
+
+
+
